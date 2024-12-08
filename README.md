@@ -1,4 +1,4 @@
-# 2.Proje_Udemig-Tour
+# Udemig-Tour
 
 # Proje Özellikleri
 
